@@ -41,6 +41,7 @@ Key finding:
 ├── requirements.txt    # Python dependencies
 ├── .gitignore
 └── README.md
+```
 ---
 
 ## 📊 Methods Used
