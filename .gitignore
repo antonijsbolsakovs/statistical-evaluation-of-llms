@@ -18,5 +18,5 @@ venv/
 .vscode/
 .idea/
 
-# Data (optional - если не хочешь грузить большие сырые данные)
+# Data
 data/raw/
