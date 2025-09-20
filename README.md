@@ -20,6 +20,7 @@ Key finding:
 ---
 
 ## 📂 Repository Structure
+```text
 .
 ├── src/                # Source code (Python scripts & notebooks)
 │   ├── AMining.py
