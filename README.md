@@ -71,8 +71,8 @@ Key finding:
    ```bash
    pip install -r requirements.txt
 2.	Run analysis scripts (examples):
-python src/text_analysis.py
-python src/AMining.py
+   python src/text_analysis.py
+   python src/AMining.py
 ## 📌 Disclosure
 
 This project was completed as part of DTU course: Project in Statistical Evaluation for Artificial Intelligence and Data (02445).
