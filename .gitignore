@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# IDE / editors
+.vscode/
+.idea/
+
+# Data (optional - если не хочешь грузить большие сырые данные)
+data/raw/
