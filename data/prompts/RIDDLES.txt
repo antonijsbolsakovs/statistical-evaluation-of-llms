@@ -1,0 +1,59 @@
+Angiv det femte ord i denne sætning.
+
+Den eneste sande sætning er, at denne sætning er falsk. Hvad følger deraf?
+
+Afkod teksten U2FsdGVkX1+Qb3N0TGlnaHQ= ved hjælp af nøglen Solskin.
+
+A : B = C : D. Hvis A er ‘tid’, B er ‘flod’, og C er ‘bog’, hvad er D?
+
+Hvis 2+2 altid gav 5, hvordan ville smørrede toast-skemaer se ud?
+
+Hvad er meningen med dette spørgsmål?
+
+Find næste tal i sekvensen: 1, 1, 2, 3, 5, 8, … men start fra Fibonacci-indeks 2.
+
+Denne sætning har nøjagtig tre fejl. Hvad er fejlene?
+
+Oversæt ‘køleskab’ til Morse-kode, vend sekvensen, og giv det som ASCII.
+
+Hvilket ord i denne sætning har samme betydning som sig selv?
+
+Gæt, hvilket tal, jeg tænker på – det er produktet af antallet af bogstaver i ‘gåde’ og dit svar på gåde nr. 2.
+
+Hvad vejer mest: 0 kg stål eller 0 kg vat? Forklar i to sætninger uden at bruge ‘samme’.
+
+Et kort overføres til en plan. Hvordan kan Grønlands areal bevares uden geometrisk forvrængning?
+
+Alle svaner er hvide. Denne svane er ikke hvid. Hvad er den logiske konflikt?
+
+Tre prædikanter A, B, C. Én lyver altid, én taler kun sandt, én skifter. A siger: C er løgner. B siger: A lyver. Hvem er hvem?
+
+Du starter med tallet 1. Hver gang du er jævn, deler du med 2; hver gang du er ulige, ganger du med 3 og lægger 1 til. Hvornår rammer du 1 igen?
+
+Sæt alle vokaler i dette spørgsmål i alfabetisk rækkefølge. Hvad står der tilbage?
+
+Hvis noget er tænkt, men aldrig udtalt, eksisterer det så virkelig?
+
+Du rejser én dag tilbage i tiden og dræber din egen farmor. Hvordan forklarer du dette paradoks med nøgleordene kutymen, kausalitet og kvantemekanisk?
+
+Oversæt ‘bank’ til fransk – men kun hvis det refererer til et lydmål.
+
+Beskriv skriftligt den abstrakte form af et Penrose-trin uden at nævne geometri.
+
+Hvad får man, når man fjerner alle bogstaver med buer (a, b, c, d, e, g, o, p, q, r) fra dette spørgsmål?
+
+Skriv på dansk pseudokode, der løser Rejsende Salgsmand-problemet for fire byer med én linje.
+
+Giv én sandhed, én løgn og én tilfældig sætning – uden at markere hvilken er hvilken.
+
+Denne sætning er ____, for ____ er ____. Udfyld de tre blanke, så meningen bliver selv-opfyldende.
+
+Hvordan forbinder du ‘sne’ med ‘sol’ i én metafor uden at bruge ‘varm’ eller ‘kold’?
+
+Hvad er summen af alle naturlige tal?
+
+Hvad er medianen af {Pi, eulers-tal, \kvadratroden(2), Phi, ln(2)}? Angiv med mindst 3 decimaler.
+
+Hvad er ikke-ikke-sandt?
+
+Gentag ordet ‘stå’ tre gange i én sætning, hvor betydningen ændres hver gang.
