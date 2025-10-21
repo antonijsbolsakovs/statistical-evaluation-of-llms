@@ -1,7 +1,7 @@
 # Preserving Linguistic Diversity in the AI Era  
 **Analyzing English Intrusion in Danish LLM Outputs**
 
-## 📌 Overview
+## Overview
 This project investigates how English words intrude into Danish-language outputs of large language models (LLMs), focusing on Google Gemini 1.5 Flash and 2.0 Flash.  
 We conducted a statistical evaluation of model responses across multiple categories (STEM, FAQ, Riddles, Creative, etc.), using methods such as correlation, ANOVA, Association Rule Mining, and Mann-Whitney U tests.  
 
@@ -11,7 +11,7 @@ Key finding:
 
 ---
 
-## 👥 Authors
+## Authors
 - Antonijs Bolsakovs (DTU, General Engineering – Cyber Systems)  
 - Mattis Kragh (DTU, AI & Data)  
 - Ro Nanak Prasad Lacoul (DTU, AI & Data)  
@@ -19,7 +19,7 @@ Key finding:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 .
 ├── src/                # Source code (Python scripts & notebooks)
@@ -44,7 +44,7 @@ Key finding:
 ```
 ---
 
-## 📊 Methods Used
+## Methods Used
 - **Association Rule Mining (FP-Growth)**  
 - **Pearson Correlation** (response length vs. English intrusion)  
 - **Two-Way ANOVA** (effects of model & category)  
@@ -53,20 +53,20 @@ Key finding:
 
 ---
 
-## 📈 Results
+## Results
 - Gemini 2.0 Flash introduces **more English words** in Danish responses compared to 1.5.  
 - Stronger correlation between **response length** and English usage in STEM and FAQ categories.  
 - English intrusion includes both **general vocabulary** and **technical terms**, raising concerns about bias toward English.  
 
 ---
 
-## 📑 Documentation
-- 📄 [Final Report (PDF)](docs/Project_Report.pdf)  
-- 📄 [Synopsis (PDF)](docs/Synopsis.pdf)  
+## Documentation
+- [Final Report (PDF)](docs/Project_Report.pdf)  
+- [Synopsis (PDF)](docs/Synopsis.pdf)  
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 1. Install dependencies:  
    ```bash
    pip install -r requirements.txt
@@ -76,7 +76,7 @@ Key finding:
    python src/text_analysis.py
    python src/AMining.py
    ```
-## 📌 Disclosure
+## Disclosure
 
 This project was completed as part of DTU course: Project in Statistical Evaluation for Artificial Intelligence and Data (02445).
 AI tools were used in debugging parts of the code.
